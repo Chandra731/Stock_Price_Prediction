@@ -37,4 +37,4 @@ This web application predicts stock prices using a Long Short-Term Memory (LSTM)
 
 ## License
 
-This project is licensed under the MIT License. See the LICENCE.md file for details.
+This project is licensed under the MIT License. See the LICENSE.md file for details.
