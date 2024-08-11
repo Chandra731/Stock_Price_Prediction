@@ -23,7 +23,7 @@ This web application predicts stock prices using a Long Short-Term Memory (LSTM)
 ## Installation
 
 1. Clone the repository:
-    git clone https://github.com/your-username/Stock_Price_Prediction.git
+    git clone https://github.com/chandra731/Stock_Price_Prediction.git
 2. Navigate to the project directory:   
     cd stock-price-prediction-app
 3. Install required packages:   
